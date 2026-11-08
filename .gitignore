@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.Rhistory
+output/*.csv
+!output/trade_blotter.csv
+!output/decision_log.csv

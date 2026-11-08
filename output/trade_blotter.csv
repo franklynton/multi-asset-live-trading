@@ -1,0 +1,344 @@
+date,ticker,side,quantity,price,notional,cost,reason
+2026-01-02,SPY,BUY,7020.03,676.635,4750000.0,305.3,initial allocation
+2026-01-02,IEF,BUY,11250.41,93.3299,1050000.0,119.23,initial allocation
+2026-01-02,GLD,BUY,11985.57,396.31,4750000.0,724.23,initial allocation
+2026-01-02,EFA,BUY,19691.68,94.534,1861534.26,257.4,initial allocation
+2026-01-02,EWJ,BUY,22244.93,80.3037,1786350.09,418.25,initial allocation
+2026-01-02,DBA,BUY,33307.21,25.52,850000.0,592.7,initial allocation
+2026-01-02,BNDX,BUY,100405.72,47.3081,4750000.0,1135.79,initial allocation
+2026-01-12,IEF,SELL,11250.41,93.8673,1056044.91,118.93,"news: Fed hikes 50bp, signals more to come"
+2026-01-12,GLD,SELL,9404.38,404.1072,3800378.33,552.39,"news: Fed hikes 50bp, signals more to come"
+2026-01-12,SPY,SELL,7020.03,683.1967,4796063.53,304.92,"news: Fed hikes 50bp, signals more to come"
+2026-01-12,BNDX,SELL,6256.07,47.3916,296484.95,62.06,"news: Fed hikes 50bp, signals more to come"
+2026-01-12,EFA,BUY,19317.59,96.5969,1866019.33,256.67,"news: Fed hikes 50bp, signals more to come"
+2026-01-12,EWJ,BUY,34543.59,83.6437,2889352.2,745.29,"news: Fed hikes 50bp, signals more to come"
+2026-01-12,DBA,BUY,129375.61,26.002,3364026.06,3001.27,"news: Fed hikes 50bp, signals more to come"
+2026-01-21,DBA,SELL,162682.82,25.7738,4192960.02,3893.89,news: Emerging-market currency crisis spreads
+2026-01-21,BNDX,SELL,50385.68,46.9541,2365814.68,547.52,news: Emerging-market currency crisis spreads
+2026-01-21,EFA,SELL,39009.27,95.6692,3731985.22,567.75,news: Emerging-market currency crisis spreads
+2026-01-21,EWJ,SELL,12520.02,85.0297,1064573.17,225.36,news: Emerging-market currency crisis spreads
+2026-01-21,SPY,BUY,7048.87,673.8667,4750000.0,302.39,news: Emerging-market currency crisis spreads
+2026-01-21,GLD,BUY,8831.6,416.1999,3675710.92,545.14,news: Emerging-market currency crisis spreads
+2026-01-21,IEF,BUY,50877.57,93.3614,4750000.0,601.88,news: Emerging-market currency crisis spreads
+2026-01-26,BNDX,SELL,43763.98,47.1355,2062835.25,472.61,news view expired
+2026-01-26,IEF,SELL,19289.33,93.9995,1813187.72,210.73,news view expired
+2026-01-26,GLD,SELL,269.57,426.2684,114908.56,12.47,news view expired
+2026-01-26,SPY,BUY,63.6,667.8409,42474.84,2.18,news view expired
+2026-01-26,EWJ,BUY,744.96,84.3197,62814.7,10.35,news view expired
+2026-01-26,TLT,BUY,46025.81,84.2617,3878210.82,507.9,news view expired
+2026-02-02,TLT,SELL,21160.04,81.1671,1717499.4,210.96,monthly rebalance
+2026-02-02,EWJ,SELL,1194.55,85.3185,101917.44,17.14,monthly rebalance
+2026-02-02,SPY,SELL,75.57,675.0125,51008.09,2.62,monthly rebalance
+2026-02-02,GLD,BUY,117.2,421.8316,49439.8,5.22,monthly rebalance
+2026-02-02,IEF,BUY,19607.65,92.7809,1819214.59,214.48,monthly rebalance
+2026-02-04,TLT,SELL,24865.77,82.391,2048714.88,255.41,news view expired
+2026-02-04,EWJ,SELL,7050.71,85.1788,600571.3,116.15,news view expired
+2026-02-04,IEF,SELL,3340.92,93.5115,312414.21,33.55,news view expired
+2026-02-04,GLD,SELL,257.6,431.7078,111209.64,12.07,news view expired
+2026-02-04,SPY,BUY,59.61,669.3426,39898.49,2.04,news view expired
+2026-02-04,EFA,BUY,9817.17,96.235,944756.1,116.64,news view expired
+2026-02-04,EEM,BUY,22395.51,50.9772,1141659.92,218.02,news view expired
+2026-02-04,DBA,BUY,34982.41,27.0468,946163.62,669.97,news view expired
+2026-02-23,IEF,SELL,47854.98,91.4407,4375891.5,554.27,news: CPI comes in well above consensus
+2026-02-23,EEM,SELL,22395.51,52.4387,1174392.08,219.0,news: CPI comes in well above consensus
+2026-02-23,DBA,SELL,20477.13,27.2751,558516.65,362.16,news: CPI comes in well above consensus
+2026-02-23,SPY,SELL,5637.18,693.8413,3911305.73,237.62,news: CPI comes in well above consensus
+2026-02-23,GLD,BUY,65.28,429.1617,28013.78,2.91,news: CPI comes in well above consensus
+2026-02-23,USO,BUY,7347.69,81.4677,598599.49,213.05,news: CPI comes in well above consensus
+2026-02-23,EWJ,BUY,18021.78,86.6947,1562392.66,335.76,news: CPI comes in well above consensus
+2026-02-23,EFA,BUY,18927.49,99.2811,1879141.24,247.27,news: CPI comes in well above consensus
+2026-02-23,BNDX,BUY,102183.48,46.485,4750000.0,1136.94,news: CPI comes in well above consensus
+2026-02-24,BNDX,SELL,6425.17,46.1155,296299.8,62.53,"news: Fed hikes 50bp, signals more to come"
+2026-02-24,GLD,SELL,4664.21,424.1529,1978339.68,262.21,"news: Fed hikes 50bp, signals more to come"
+2026-02-24,USO,SELL,4121.98,82.3236,339336.26,111.57,"news: Fed hikes 50bp, signals more to come"
+2026-02-24,SPY,SELL,1459.34,647.9421,945566.62,55.1,"news: Fed hikes 50bp, signals more to come"
+2026-02-24,EWJ,BUY,2031.86,83.5946,169852.6,29.85,"news: Fed hikes 50bp, signals more to come"
+2026-02-24,EFA,BUY,9768.18,95.5638,933484.39,118.78,"news: Fed hikes 50bp, signals more to come"
+2026-02-24,DBA,BUY,84420.78,26.6716,2251635.04,1866.47,"news: Fed hikes 50bp, signals more to come"
+2026-03-03,DBA,SELL,75576.65,28.5204,2155478.26,1984.79,monthly rebalance
+2026-03-03,EWJ,BUY,449.62,82.9384,37290.55,6.05,monthly rebalance
+2026-03-03,EFA,BUY,575.1,96.0757,55252.97,5.91,monthly rebalance
+2026-03-03,BNDX,BUY,1848.27,45.6446,84363.31,17.37,monthly rebalance
+2026-03-03,GLD,BUY,4496.36,435.7702,1959381.63,267.01,monthly rebalance
+2026-03-09,EFA,SELL,39087.94,97.7283,3819996.4,592.61,news view expired
+2026-03-09,DBA,SELL,9794.72,28.5787,279920.01,180.77,news view expired
+2026-03-09,EWJ,SELL,5040.81,84.1098,423981.33,80.49,news view expired
+2026-03-09,GLD,SELL,188.7,443.4468,83676.82,8.98,news view expired
+2026-03-09,USO,BUY,4330.0,77.5145,335637.29,108.28,news view expired
+2026-03-09,SPY,BUY,6243.2,671.3658,4191470.52,276.79,news view expired
+2026-03-09,BNDX,BUY,7022.84,45.3983,318825.04,67.24,news view expired
+2026-03-09,IEF,BUY,13264.69,88.7654,1177446.02,136.21,news view expired
+2026-03-10,DBA,SELL,13554.69,28.7038,389070.33,260.57,news view expired
+2026-03-10,EWJ,SELL,8668.91,84.8938,735936.98,148.89,news view expired
+2026-03-10,GLD,SELL,76.65,446.6428,34234.2,3.58,news view expired
+2026-03-10,SPY,BUY,845.87,670.0456,566771.81,31.63,news view expired
+2026-03-10,IEF,BUY,1562.9,89.1751,139371.86,14.69,news view expired
+2026-03-10,EFA,BUY,1689.9,98.2666,166060.42,18.49,news view expired
+2026-03-10,USO,BUY,3840.63,76.2018,292663.15,92.89,news view expired
+2026-04-01,GLD,SELL,335.41,461.1882,154688.9,16.83,monthly rebalance
+2026-04-01,EEM,BUY,1002.98,48.8876,49033.24,7.77,monthly rebalance
+2026-04-01,EFA,BUY,1228.02,102.7672,126199.96,13.77,monthly rebalance
+2026-04-15,IEF,SELL,14827.6,91.3821,1354977.48,156.27,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,USO,SELL,11396.34,81.025,923389.29,330.88,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,SPY,SELL,7089.07,689.4658,4887670.77,310.96,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,GLD,SELL,4640.83,462.6208,2146943.14,284.49,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,BNDX,SELL,1154.75,45.905,53008.83,10.81,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,EEM,SELL,1002.98,48.8649,49010.51,7.73,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,EWJ,BUY,10214.92,88.3283,902266.81,179.13,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,EFA,BUY,37612.8,101.4832,3817068.9,557.98,"news: Fed hikes 50bp, signals more to come"
+2026-04-15,DBA,BUY,93005.39,29.6923,2761545.57,2458.18,"news: Fed hikes 50bp, signals more to come"
+2026-04-21,DBA,SELL,93005.39,31.3862,2919087.83,2840.28,news: Suez Canal disruption: oil supply shock
+2026-04-21,EFA,SELL,40530.72,102.2458,4144093.93,619.97,news: Suez Canal disruption: oil supply shock
+2026-04-21,GLD,SELL,3048.39,479.1068,1460502.63,185.58,news: Suez Canal disruption: oil supply shock
+2026-04-21,BNDX,SELL,1535.48,46.5964,71547.83,14.72,news: Suez Canal disruption: oil supply shock
+2026-04-21,SPY,BUY,6068.15,700.5261,4250897.54,271.29,news: Suez Canal disruption: oil supply shock
+2026-04-21,IEF,BUY,15848.22,92.4334,1464905.45,171.96,news: Suez Canal disruption: oil supply shock
+2026-04-21,USO,BUY,53387.73,88.9718,4750000.0,2474.96,news: Suez Canal disruption: oil supply shock
+2026-04-24,IEF,SELL,15848.22,91.8916,1456317.74,170.57,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,GLD,SELL,2450.07,488.7195,1197395.65,148.79,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,BNDX,SELL,669.17,46.2237,30931.34,6.31,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,SPY,BUY,823.97,689.1926,567875.95,31.21,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,USO,BUY,969.83,87.3843,84748.28,24.22,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,EEM,BUY,5915.76,49.1693,290873.9,49.59,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,EFA,BUY,6230.91,101.9357,635152.67,75.45,news: Strong earnings and steady growth: soft landing priced in
+2026-04-24,DBA,BUY,36115.45,31.2729,1129435.25,895.12,news: Strong earnings and steady growth: soft landing priced in
+2026-04-29,DBA,SELL,36115.45,31.5516,1139501.78,898.51,news view expired
+2026-04-29,EWJ,SELL,16661.67,89.522,1491585.55,319.83,news view expired
+2026-04-29,USO,SELL,958.63,88.9531,85272.79,24.54,news view expired
+2026-04-29,SPY,SELL,232.79,713.2848,166046.64,8.75,news view expired
+2026-04-29,BNDX,BUY,1291.78,46.3135,59826.89,12.29,news view expired
+2026-04-29,GLD,BUY,2504.42,490.0066,1227183.21,152.51,news view expired
+2026-04-29,EEM,BUY,31053.32,50.7873,1577114.74,316.9,news view expired
+2026-04-30,EEM,SELL,888.27,52.0282,46215.05,7.35,monthly rebalance
+2026-04-30,SPY,SELL,57.95,719.5468,41700.96,2.14,monthly rebalance
+2026-04-30,GLD,BUY,71.32,492.0121,35089.56,3.65,monthly rebalance
+2026-04-30,IEF,BUY,435.82,91.3354,39806.21,4.09,monthly rebalance
+2026-04-30,BNDX,BUY,821.27,45.9456,37733.62,7.72,monthly rebalance
+2026-05-05,USO,SELL,51390.43,93.3256,4796041.09,2567.91,news view expired
+2026-05-05,SPY,SELL,157.27,737.1072,115922.32,6.07,news view expired
+2026-05-05,IEF,BUY,920.96,91.1979,83989.45,8.74,news view expired
+2026-05-05,GLD,BUY,5298.71,500.5431,2652232.74,359.36,news view expired
+2026-05-05,EFA,BUY,19809.83,107.9558,2138585.75,299.15,news view expired
+2026-05-08,EEM,SELL,36080.81,52.6446,1899458.71,389.91,news view expired
+2026-05-08,EFA,SELL,11886.34,108.2688,1286919.64,167.82,news view expired
+2026-05-08,SPY,SELL,72.45,745.4889,54012.73,2.78,news view expired
+2026-05-08,USO,BUY,423.79,93.5985,39665.78,10.9,news view expired
+2026-05-08,GLD,BUY,1498.27,498.2733,746546.48,88.27,news view expired
+2026-05-08,EWJ,BUY,10243.36,91.7486,939813.68,191.36,news view expired
+2026-05-08,IEF,BUY,16353.29,91.2917,1492919.34,173.88,news view expired
+2026-05-22,BNDX,SELL,103383.06,46.5306,4810471.56,1204.83,news: Fed signals cuts as inflation cools
+2026-05-22,EWJ,SELL,47358.34,84.7152,4011970.12,1145.93,news: Fed signals cuts as inflation cools
+2026-05-22,IEF,SELL,6079.93,95.0421,577849.56,64.78,news: Fed signals cuts as inflation cools
+2026-05-22,USO,SELL,2432.3,89.3989,217444.62,67.23,news: Fed signals cuts as inflation cools
+2026-05-22,GLD,SELL,105.19,503.8327,52997.54,5.57,news: Fed signals cuts as inflation cools
+2026-05-22,SPY,BUY,265.79,715.6364,190209.72,10.14,news: Fed signals cuts as inflation cools
+2026-05-22,TLT,BUY,62030.21,76.5756,4750000.0,700.83,news: Fed signals cuts as inflation cools
+2026-05-22,EEM,BUY,98050.32,48.4445,4750000.0,1139.99,news: Fed signals cuts as inflation cools
+2026-05-27,TLT,SELL,807.43,77.5855,62645.11,6.61,mandate: GLD above $5m cap
+2026-05-27,GLD,SELL,585.84,537.2153,314721.65,37.31,mandate: GLD above $5m cap
+2026-05-27,SPY,SELL,120.87,728.9105,88105.77,4.6,mandate: GLD above $5m cap
+2026-05-27,EEM,BUY,1268.93,47.8256,60687.31,9.72,mandate: GLD above $5m cap
+2026-05-27,IEF,BUY,4239.7,96.113,407490.38,45.04,mandate: GLD above $5m cap
+2026-05-28,EEM,SELL,99319.25,47.0101,4669012.75,1119.24,"news: Payrolls miss badly, recession fears grow"
+2026-05-28,EFA,SELL,14154.4,102.6548,1453017.44,199.51,"news: Payrolls miss badly, recession fears grow"
+2026-05-28,TLT,SELL,1369.64,79.3609,108696.11,11.68,"news: Payrolls miss badly, recession fears grow"
+2026-05-28,SPY,BUY,77.38,720.3563,55743.8,2.89,"news: Payrolls miss badly, recession fears grow"
+2026-05-28,IEF,BUY,16446.06,97.2155,1598812.8,195.07,"news: Payrolls miss badly, recession fears grow"
+2026-05-28,EWJ,BUY,54225.35,84.1833,4564869.19,1339.21,"news: Payrolls miss badly, recession fears grow"
+2026-05-29,IEF,SELL,3079.42,95.5859,294348.68,32.54,monthly rebalance
+2026-05-29,EWJ,SELL,1389.7,81.5581,113341.62,19.79,monthly rebalance
+2026-05-29,GLD,BUY,110.13,530.6063,58436.18,6.3,monthly rebalance
+2026-05-29,SPY,BUY,185.64,700.6316,130063.79,6.87,monthly rebalance
+2026-05-29,TLT,BUY,3121.48,75.4272,235444.29,26.67,monthly rebalance
+2026-06-05,SPY,SELL,300.69,685.6644,206174.6,11.02,news view expired
+2026-06-05,GLD,SELL,290.98,548.4329,159584.44,18.19,news view expired
+2026-06-05,EWJ,BUY,4714.85,80.4413,379268.39,73.77,news view expired
+2026-06-09,SPY,SELL,6478.9,668.3709,4330310.82,285.74,"news: Payrolls miss badly, recession fears grow"
+2026-06-09,IEF,SELL,1152.75,97.5685,112471.78,11.97,"news: Payrolls miss badly, recession fears grow"
+2026-06-09,TLT,SELL,428.15,75.9435,32515.5,3.4,"news: Payrolls miss badly, recession fears grow"
+2026-06-09,GLD,SELL,58.14,552.1392,32100.69,3.41,"news: Payrolls miss badly, recession fears grow"
+2026-06-09,EWJ,BUY,2870.14,78.6155,225637.76,41.61,"news: Payrolls miss badly, recession fears grow"
+2026-06-09,EFA,BUY,43528.63,98.0737,4269012.78,706.16,"news: Payrolls miss badly, recession fears grow"
+2026-06-11,GLD,SELL,410.79,579.8261,238187.25,28.6,news view expired
+2026-06-11,SPY,BUY,206.78,650.7124,134551.94,7.11,news view expired
+2026-06-11,IEF,BUY,623.74,97.9059,61068.12,6.39,news view expired
+2026-06-11,TLT,BUY,642.13,75.1718,48270.16,5.09,news view expired
+2026-06-16,EWJ,SELL,60420.64,75.2459,4546405.71,1416.01,stop-loss (-506k)
+2026-06-16,IEF,SELL,1150.85,98.3017,113130.05,11.99,"stop-loss EWJ / mandate: Equity at 19.8%, outside band; only 77.8% invested"
+2026-06-16,TLT,SELL,533.49,75.8119,40444.98,4.24,"stop-loss EWJ / mandate: Equity at 19.8%, outside band; only 77.8% invested"
+2026-06-16,GLD,SELL,111.83,587.8512,65742.33,7.25,"stop-loss EWJ / mandate: Equity at 19.8%, outside band; only 77.8% invested"
+2026-06-16,EFA,BUY,1509.64,94.2755,142322.17,15.98,"stop-loss EWJ / mandate: Equity at 19.8%, outside band; only 77.8% invested"
+2026-06-16,SPY,BUY,7108.26,649.3476,4615730.26,307.38,"stop-loss EWJ / mandate: Equity at 19.8%, outside band; only 77.8% invested"
+2026-06-23,TLT,SELL,62655.1,76.7759,4810399.37,721.97,news view expired
+2026-06-23,EFA,SELL,27805.93,95.6526,2659710.68,402.54,news view expired
+2026-06-23,IEF,SELL,11727.28,99.0932,1162093.85,137.32,news view expired
+2026-06-23,GLD,SELL,286.58,609.4669,174661.32,20.35,news view expired
+2026-06-23,SPY,SELL,77.11,656.2656,50604.8,2.61,news view expired
+2026-06-23,DBA,BUY,41014.33,32.9324,1350700.45,1076.74,news view expired
+2026-06-23,EEM,BUY,69162.29,39.801,2752731.16,610.01,news view expired
+2026-06-23,BNDX,BUY,100635.67,47.2,4750000.0,1216.7,news view expired
+2026-06-29,DBA,SELL,1716.04,33.5125,57508.67,32.25,monthly rebalance
+2026-06-29,IEF,SELL,491.22,99.9901,49117.26,5.09,monthly rebalance
+2026-06-29,EFA,SELL,413.75,94.4386,39073.94,4.14,monthly rebalance
+2026-06-29,SPY,BUY,83.92,648.7433,54445.58,2.81,monthly rebalance
+2026-06-29,GLD,BUY,139.68,598.7363,83630.92,9.29,monthly rebalance
+2026-07-06,EEM,SELL,69162.29,39.0468,2700565.86,593.47,"news: Fed hikes 50bp, signals more to come"
+2026-07-06,IEF,SELL,15338.14,99.6586,1528578.1,183.37,"news: Fed hikes 50bp, signals more to come"
+2026-07-06,SPY,SELL,7321.85,657.7128,4815673.54,317.69,"news: Fed hikes 50bp, signals more to come"
+2026-07-06,GLD,SELL,6481.19,585.6757,3795874.95,645.08,"news: Fed hikes 50bp, signals more to come"
+2026-07-06,EFA,BUY,29262.08,93.4599,2734831.37,408.03,"news: Fed hikes 50bp, signals more to come"
+2026-07-06,EWJ,BUY,63623.03,74.6585,4750000.0,1451.07,"news: Fed hikes 50bp, signals more to come"
+2026-07-06,DBA,BUY,100617.9,33.9489,3415866.51,3264.72,"news: Fed hikes 50bp, signals more to come"
+2026-07-07,EFA,SELL,813.09,93.2834,75848.12,8.2,mandate: only 89.9% invested
+2026-07-07,EWJ,BUY,1498.24,72.9408,109283.21,19.06,mandate: only 89.9% invested
+2026-07-07,DBA,BUY,2701.8,33.3058,89985.59,51.94,mandate: only 89.9% invested
+2026-07-20,DBA,SELL,132028.02,34.4488,4548202.56,5033.49,news view expired
+2026-07-20,EWJ,SELL,65121.27,70.5425,4593814.25,1583.17,news view expired
+2026-07-20,EFA,SELL,28916.39,89.9038,2599694.17,412.31,news view expired
+2026-07-20,BNDX,BUY,1740.6,46.3975,80759.33,16.69,news view expired
+2026-07-20,GLD,BUY,7018.95,560.7275,3935719.51,676.04,news view expired
+2026-07-20,SPY,BUY,7988.95,594.5713,4750000.0,339.4,news view expired
+2026-07-20,IEF,BUY,22321.85,96.6337,2157043.04,269.93,news view expired
+2026-07-20,EEM,BUY,72217.46,36.531,2638174.33,588.11,news view expired
+2026-07-28,BNDX,SELL,1245.59,46.9689,58504.02,12.02,monthly rebalance
+2026-07-28,GLD,SELL,423.31,590.2211,249844.16,29.38,monthly rebalance
+2026-07-28,SPY,SELL,170.29,607.5212,103456.15,5.48,monthly rebalance
+2026-07-28,EFA,BUY,327.68,89.3617,29281.94,3.1,monthly rebalance
+2026-07-28,DBA,BUY,4816.11,34.0427,163953.22,100.36,monthly rebalance
+2026-07-28,EEM,BUY,5753.55,35.3994,203672.25,34.78,monthly rebalance
+2026-08-13,BNDX,SELL,101130.68,47.5946,4813272.05,1198.31,news: Suez Canal disruption: oil supply shock
+2026-08-13,EEM,SELL,59100.12,35.6747,2108380.93,461.76,news: Suez Canal disruption: oil supply shock
+2026-08-13,EFA,SELL,16678.87,88.1872,1470862.26,206.81,news: Suez Canal disruption: oil supply shock
+2026-08-13,DBA,SELL,15406.08,34.1396,525958.06,377.31,news: Suez Canal disruption: oil supply shock
+2026-08-13,GLD,SELL,5853.92,604.1718,3536774.23,575.04,news: Suez Canal disruption: oil supply shock
+2026-08-13,IEF,SELL,2870.48,99.1227,284529.96,30.72,news: Suez Canal disruption: oil supply shock
+2026-08-13,SPY,SELL,105.46,615.8276,64944.63,3.39,news: Suez Canal disruption: oil supply shock
+2026-08-13,EWJ,BUY,55504.37,66.4819,3690034.33,1141.83,news: Suez Canal disruption: oil supply shock
+2026-08-13,USO,BUY,56600.89,83.9209,4750000.0,2943.54,news: Suez Canal disruption: oil supply shock
+2026-08-13,TLT,BUY,57351.57,76.0992,4364408.07,619.06,news: Suez Canal disruption: oil supply shock
+2026-08-17,EEM,SELL,18870.88,38.1712,720323.47,143.69,mandate: USO above $5m cap
+2026-08-17,USO,SELL,7232.42,95.2558,688929.58,286.0,mandate: USO above $5m cap
+2026-08-17,IEF,SELL,1538.72,98.838,152084.08,16.07,mandate: USO above $5m cap
+2026-08-17,SPY,SELL,82.46,622.4822,51328.23,2.67,mandate: USO above $5m cap
+2026-08-17,GLD,BUY,397.17,614.7925,244177.41,28.42,mandate: USO above $5m cap
+2026-08-17,TLT,BUY,6855.42,73.9795,507160.28,58.16,mandate: USO above $5m cap
+2026-08-17,EWJ,BUY,12203.14,69.3189,845908.84,197.29,mandate: USO above $5m cap
+2026-08-20,EWJ,SELL,67707.51,71.194,4820369.91,1669.55,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,TLT,SELL,40569.23,74.4584,3020720.62,408.5,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,USO,SELL,2873.58,102.1618,293569.79,104.34,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,GLD,SELL,2591.08,620.8556,1608686.87,225.74,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,SPY,SELL,51.96,626.7499,32565.82,1.68,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,BNDX,BUY,3581.9,47.703,170867.51,35.72,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,EEM,BUY,11111.41,39.4433,438270.27,82.22,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,IEF,BUY,29954.56,99.2329,2972476.58,369.81,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,EFA,BUY,47910.77,93.6639,4487512.12,804.86,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-20,DBA,BUY,48424.02,35.1173,1700521.6,1490.47,news: Strong earnings and steady growth: soft landing priced in / mandate: USO above $5m cap
+2026-08-26,USO,SELL,46494.89,98.0167,4557274.43,3014.23,monthly rebalance
+2026-08-26,TLT,SELL,23637.76,76.0953,1798722.43,227.84,monthly rebalance
+2026-08-26,IEF,SELL,550.68,100.3877,55281.06,5.71,monthly rebalance
+2026-08-26,SPY,SELL,73.65,632.9002,46611.84,2.42,monthly rebalance
+2026-08-26,EFA,BUY,2041.17,95.0914,194097.63,22.63,monthly rebalance
+2026-08-26,GLD,BUY,2889.48,615.7549,1779210.49,251.23,monthly rebalance
+2026-08-26,BNDX,BUY,4300.78,47.9757,206333.21,43.38,monthly rebalance
+2026-08-26,EEM,BUY,32770.53,39.2009,1284633.69,274.69,monthly rebalance
+2026-08-26,DBA,BUY,86166.61,34.6833,2988538.63,2964.25,monthly rebalance
+2026-08-27,EFA,SELL,787.74,96.615,76107.31,8.4,news view expired
+2026-08-27,IEF,SELL,300.51,100.6494,30245.8,3.1,news view expired
+2026-08-27,SPY,SELL,83.05,639.9818,53148.7,2.77,news view expired
+2026-08-27,EEM,BUY,3346.66,39.7103,132896.88,22.64,news view expired
+2026-09-01,DBA,SELL,134590.63,34.8864,4695381.92,5087.65,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,EEM,SELL,47228.59,38.8367,1834200.65,414.4,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,EFA,SELL,31187.09,95.1782,2968331.18,488.32,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,IEF,SELL,10790.76,101.5877,1096207.88,125.19,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,BNDX,SELL,7882.68,48.2814,380586.85,81.27,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,SPY,SELL,2268.95,630.7959,1431241.34,86.94,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,GLD,BUY,4630.02,631.6913,2924741.66,445.16,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,TLT,BUY,60917.29,77.9746,4750000.0,675.2,"news: Payrolls miss badly, recession fears grow"
+2026-09-01,EWJ,BUY,65089.91,72.976,4750000.0,1628.62,"news: Payrolls miss badly, recession fears grow"
+2026-09-03,GLD,SELL,106.54,640.77,68267.21,7.36,news view expired
+2026-09-03,SPY,SELL,83.9,635.1256,53289.26,2.77,news view expired
+2026-09-03,EWJ,BUY,399.83,72.5304,29000.12,4.77,news view expired
+2026-09-03,TLT,BUY,1169.37,76.506,89463.92,9.46,news view expired
+2026-09-15,TLT,SELL,62086.66,78.7533,4889526.97,692.2,news view expired
+2026-09-15,EWJ,SELL,36844.46,70.4173,2594489.07,726.0,news view expired
+2026-09-15,GLD,SELL,290.07,666.8645,193437.41,21.82,news view expired
+2026-09-15,SPY,BUY,2627.69,617.1295,1621624.09,97.86,news view expired
+2026-09-15,EFA,BUY,13877.88,93.591,1298845.04,181.11,news view expired
+2026-09-15,DBA,BUY,51092.25,34.2317,1748976.8,1517.43,news view expired
+2026-09-15,BNDX,BUY,61507.45,48.7934,3001159.01,716.39,news view expired
+2026-09-23,SPY,SELL,399.61,650.9244,260116.42,14.07,mandate: SPY above $5m cap
+2026-09-23,GLD,BUY,162.18,652.0188,105744.27,11.55,mandate: SPY above $5m cap
+2026-09-23,BNDX,BUY,3015.03,48.646,146669.0,30.53,mandate: SPY above $5m cap
+2026-09-24,GLD,SELL,70.11,658.3543,46154.34,4.9,monthly rebalance
+2026-09-24,EWJ,BUY,352.9,72.2028,25480.51,4.13,monthly rebalance
+2026-09-28,BNDX,SELL,64522.48,48.6864,3141364.9,742.45,news: Emerging-market currency crisis spreads
+2026-09-28,DBA,SELL,51092.25,34.0399,1739176.08,1492.34,news: Emerging-market currency crisis spreads
+2026-09-28,EFA,SELL,29555.01,91.3751,2700591.35,425.99,news: Emerging-market currency crisis spreads
+2026-09-28,IEF,SELL,802.94,103.8349,83373.28,8.66,news: Emerging-market currency crisis spreads
+2026-09-28,SPY,BUY,339.75,621.9665,211314.28,11.37,news: Emerging-market currency crisis spreads
+2026-09-28,EWJ,BUY,38724.47,70.139,2716096.38,748.95,news: Emerging-market currency crisis spreads
+2026-09-28,TLT,BUY,59105.79,80.3644,4750000.0,667.69,news: Emerging-market currency crisis spreads
+2026-10-12,TLT,SELL,59105.79,78.6397,4648062.79,661.37,news view expired
+2026-10-12,EWJ,SELL,572.72,68.5627,39267.07,6.5,news view expired
+2026-10-12,GLD,BUY,99.4,649.4075,64550.58,6.92,news view expired
+2026-10-12,DBA,BUY,35594.81,34.2621,1219553.76,952.51,news view expired
+2026-10-12,BNDX,BUY,70435.64,48.1445,3391085.28,798.69,news view expired
+2026-10-14,BNDX,SELL,70435.64,48.057,3384922.8,795.49,"news: Payrolls miss badly, recession fears grow"
+2026-10-14,DBA,SELL,35594.81,34.6998,1235134.11,962.77,"news: Payrolls miss badly, recession fears grow"
+2026-10-14,IEF,SELL,892.87,102.3945,91425.25,9.53,"news: Payrolls miss badly, recession fears grow"
+2026-10-14,SPY,SELL,258.55,628.7533,162564.02,8.68,"news: Payrolls miss badly, recession fears grow"
+2026-10-14,GLD,BUY,59.13,644.2001,38088.8,4.02,"news: Payrolls miss badly, recession fears grow"
+2026-10-14,EWJ,BUY,1443.41,69.2487,99954.04,17.46,"news: Payrolls miss badly, recession fears grow"
+2026-10-14,TLT,BUY,61142.57,77.6873,4750000.0,677.51,"news: Payrolls miss badly, recession fears grow"
+2026-10-21,IEF,SELL,2618.67,103.7538,271696.9,29.14,"mandate: Equity at 39.9%, outside band"
+2026-10-21,EFA,SELL,2299.98,85.4217,196467.96,22.74,"mandate: Equity at 39.9%, outside band"
+2026-10-21,TLT,SELL,1303.57,79.3797,103476.66,10.99,"mandate: Equity at 39.9%, outside band"
+2026-10-21,GLD,SELL,125.74,655.3762,82407.05,8.91,"mandate: Equity at 39.9%, outside band"
+2026-10-21,SPY,BUY,780.85,582.1531,454573.32,25.37,"mandate: Equity at 39.9%, outside band"
+2026-10-21,EWJ,BUY,3174.51,65.3438,207434.48,38.52,"mandate: Equity at 39.9%, outside band"
+2026-10-23,IEF,SELL,445.6,103.0794,45932.68,4.73,monthly rebalance
+2026-10-23,GLD,SELL,49.91,659.9207,32937.1,3.46,monthly rebalance
+2026-10-23,TLT,BUY,814.02,78.3143,63749.71,6.68,monthly rebalance
+2026-10-26,EWJ,SELL,71767.85,63.3689,4547847.33,1432.72,stop-loss (-551k)
+2026-10-26,TLT,SELL,60653.03,77.4289,4696297.54,665.26,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-26,IEF,SELL,30398.82,102.9732,3130263.51,388.82,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-26,SPY,SELL,230.26,571.0374,131488.65,6.98,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-26,GLD,BUY,63.86,654.117,41773.58,4.41,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-26,DBA,BUY,41697.56,34.4195,1435209.55,1131.6,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-26,EFA,BUY,57063.87,83.2401,4750000.0,834.48,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-26,BNDX,BUY,99095.84,47.9334,4750000.0,1137.52,"stop-loss EWJ / news: CPI comes in well above consensus / mandate: Equity at 21.1%, outside band; only 78.3% invested"
+2026-10-28,EFA,SELL,2577.12,81.5062,210050.86,25.22,news view expired
+2026-10-28,DBA,SELL,1383.02,34.1648,47250.52,26.04,news view expired
+2026-10-28,IEF,SELL,443.84,103.3483,45870.21,4.72,news view expired
+2026-10-28,SPY,BUY,571.97,558.7533,319587.89,17.67,news view expired
+2026-10-29,SPY,SELL,8501.07,537.9059,4572774.57,326.02,stop-loss (-513k)
+2026-10-29,DBA,SELL,2983.61,33.8517,101000.13,58.05,"stop-loss SPY / mandate: Equity at 19.6%, outside band; only 70.6% invested"
+2026-10-29,IEF,SELL,622.53,103.2629,64284.11,6.65,"stop-loss SPY / mandate: Equity at 19.6%, outside band; only 70.6% invested"
+2026-10-29,EFA,BUY,6868.61,77.4178,531752.89,72.01,"stop-loss SPY / mandate: Equity at 19.6%, outside band; only 70.6% invested"
+2026-10-29,EEM,BUY,150686.13,28.3409,4270573.93,1210.03,"stop-loss SPY / mandate: Equity at 19.6%, outside band; only 70.6% invested"
+2026-11-09,EEM,SELL,150686.13,28.2457,4256241.92,1158.72,news view expired
+2026-11-09,GLD,BUY,70.02,647.8697,45366.45,4.81,news view expired
+2026-11-09,IEF,BUY,14310.56,102.6529,1469020.17,170.2,news view expired
+2026-11-09,EWJ,BUY,72437.41,58.1402,4211525.01,1451.82,news view expired
+2026-11-23,EFA,SELL,45261.93,78.9107,3571650.82,630.03,monthly rebalance
+2026-11-23,EWJ,SELL,20767.26,60.1069,1248255.61,307.46,monthly rebalance
+2026-11-23,GLD,SELL,100.48,656.8719,66001.77,7.1,monthly rebalance
+2026-11-23,IEF,BUY,491.92,104.784,51544.94,5.31,monthly rebalance
+2026-11-23,DBA,BUY,2618.11,33.3871,87411.35,49.28,monthly rebalance
+2026-11-23,SPY,BUY,8623.47,550.8223,4750000.0,323.4,monthly rebalance
+2026-12-01,EFA,SELL,16093.44,83.9274,1350680.62,206.73,mandate: SPY above $5m cap
+2026-12-01,DBA,SELL,13205.3,34.5903,456774.91,298.44,mandate: SPY above $5m cap
+2026-12-01,BNDX,SELL,1198.5,48.5202,58151.48,11.9,mandate: SPY above $5m cap
+2026-12-01,SPY,SELL,591.91,591.4167,350064.97,19.61,mandate: SPY above $5m cap
+2026-12-01,GLD,SELL,51.29,661.5645,33933.54,3.56,mandate: SPY above $5m cap
+2026-12-01,IEF,BUY,7966.46,105.7282,842279.22,94.25,mandate: SPY above $5m cap
+2026-12-01,EWJ,BUY,21572.56,64.245,1385929.32,359.28,mandate: SPY above $5m cap
+2026-12-09,EWJ,SELL,3868.22,68.469,264853.0,51.9,mandate: EWJ above $5m cap
+2026-12-09,SPY,SELL,327.56,616.5626,201960.6,10.96,mandate: EWJ above $5m cap
+2026-12-09,GLD,BUY,145.01,648.4677,94034.7,10.14,mandate: EWJ above $5m cap
+2026-12-09,EFA,BUY,1366.87,88.1646,120509.52,13.86,mandate: EWJ above $5m cap
+2026-12-09,IEF,BUY,2416.91,104.7811,253245.99,26.89,mandate: EWJ above $5m cap
+2026-12-22,DBA,SELL,1978.12,35.6668,70553.36,39.12,monthly rebalance
+2026-12-22,EFA,SELL,1001.23,87.1914,87298.38,9.71,monthly rebalance
+2026-12-22,GLD,BUY,127.37,637.3844,81184.71,8.67,monthly rebalance
+2026-12-22,SPY,BUY,142.37,605.3755,86185.07,4.53,monthly rebalance
